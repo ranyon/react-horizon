@@ -1,0 +1,14 @@
+footer{
+    background-color: rgb(56, 77, 172);
+    border-radius: 2px;
+}
+
+footer h4{
+    color: rgb(242, 255, 0);
+}
+footer h5{
+    color: rgb(166, 170, 89);
+}
+footer p{
+    color: rgb(255, 255, 255);
+}
