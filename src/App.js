@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './navbar';
 import Carousel from './carousel';
 import Offices from './Offices';
+import Footer from './footer'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
    <Navbar/>
    <Carousel/>
    <Offices/>
+   <Footer/>
 
    </>
   );
