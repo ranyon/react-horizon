@@ -1,5 +1,5 @@
 import React from 'react'
-import officeimg from './img/offics.jfif'
+import officeimg from '../../img/offics.jfif'
 
 const Offices = () => {
     return (

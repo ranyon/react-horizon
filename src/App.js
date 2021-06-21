@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './navbar';
-import Carousel from './carousel';
-import Offices from './Offices';
-import Footer from './footer'
+import Navbar from './components/navbar/navbar';
+import Carousel from './components/carousel/carousel';
+import Offices from './components/offices/Offices';
+import Footer from './components/footer/footer'
 
 function App() {
   return (
