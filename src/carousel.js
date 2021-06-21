@@ -1,5 +1,5 @@
 import React from 'react'
-import officeimg from './img/Horizon-offices.jpg'
+import officeimg from './img/horizon.jpg'
 
 const Carousel = () => {
     return (
