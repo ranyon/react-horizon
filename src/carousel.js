@@ -1,7 +1,7 @@
 import React from 'react'
 import officeimg from './img/Horizon-offices.jpg'
 
-const carousel = () => {
+const Carousel = () => {
     return (
         <div>
              {/* <!-- CAROUSEL  --> */}
@@ -46,4 +46,4 @@ const carousel = () => {
     )
 }
 
-export default carousel
+export default Carousel
