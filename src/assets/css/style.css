@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+
+.navbar-default {
+   height: 80px;
+   
+}
+.navbar-default {
+    background-color: rgb(255 255 255);
+    border-color: rgb(255 255 255);
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #c5c2c2;
+    padding-top: 25px;
+    font-size: 25px;
+}
+footer{
+    background-color: rgb(56, 77, 172);
+    border-radius: 2px;
+}
+
+footer h4{
+    color: rgb(242, 255, 0);
+}
+footer h5{
+    color: rgb(166, 170, 89);
+}
+footer p{
+    color: rgb(255, 255, 255);
+}
