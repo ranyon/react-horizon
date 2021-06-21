@@ -1,4 +1,5 @@
 import React from 'react'
+import officeimg from './img/offics.jfif'
 
 const Offices = () => {
     return (
@@ -10,7 +11,7 @@ const Offices = () => {
             <br/>
             <div className=" col-md-3">
               <div className="thumbnail">
-                <img src={} alt="offices"/>
+                <img src={officeimg} alt="offices"/>
                 <div className="caption">
                   <h3>Virtual offices</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, animi.</p>
@@ -20,7 +21,7 @@ const Offices = () => {
             </div>
             <div className=" col-md-3">
               <div className="thumbnail">
-                <img src={} alt="offices"/>
+                <img src={officeimg} alt="offices"/>
                 <div className="caption">
                   <h3>Virtual offices</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, animi.</p>
@@ -30,7 +31,7 @@ const Offices = () => {
             </div>
             <div className=" col-md-3">
               <div className="thumbnail">
-                <img src={} alt="offices"/>
+                <img src={officeimg} alt="offices"/>
                 <div className="caption">
                   <h3>Virtual offices</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, animi.</p>
@@ -40,7 +41,7 @@ const Offices = () => {
             </div>
             <div className=" col-md-3">
               <div className="thumbnail">
-                <img src={} alt="offices"/>
+                <img src={officeimg} alt="offices"/>
                 <div className="caption">
                   <h3>Virtual offices</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, animi.</p>
